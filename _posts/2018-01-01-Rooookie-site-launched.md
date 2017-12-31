@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Rooookie, Launches Site"
 date: 2018-01-01
 ---
 
